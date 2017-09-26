@@ -1,6 +1,7 @@
 {
   "name": "agile-player-controller",
   "title": "agile-player-controller",
+  "description": "Agile Player Controller de Cadena3",
   "version": "0.1.0",
   "license": "UNLICENSED",
   "jspm": {
